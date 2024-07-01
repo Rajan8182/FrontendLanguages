@@ -1,2 +1,3 @@
 "# FrontendLanguages" 
 "# tailwind" 
+"# Javascript" 
